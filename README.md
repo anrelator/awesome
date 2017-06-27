@@ -1,2 +1,2 @@
 # awesome
-awesome things for starting out 
+awesome things for starting out with data science
